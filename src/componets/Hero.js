@@ -3,7 +3,7 @@ import Logo from "./../asset/jewelry-logo.png"
 
 const Hero = () => {
   return (
-    <section className=" bg-[#2a123d]">
+    <section className=" bg-[#262527]">
       <div className=" container max-w-6xl mx-auto py-12 px-6 ">
         <nav className="flex items-center justify-between font-bold text-white">
           <img src={Logo} alt="logo" className=" h-16" />
